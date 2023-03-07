@@ -69,7 +69,7 @@ public boolean isWon()
 public void displayMessage()
 {
   //your code here
- fill(0);
+ fill(255);
 
   if (isWon()) {
     displayMine();
